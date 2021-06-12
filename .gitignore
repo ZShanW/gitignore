@@ -1,3 +1,10 @@
+#Ignore Single File
 new-file.txt
 another-file.txt
+
+
+# Ignore files in the folder 
 bin/
+
+#Ignore all files with extension
+*.tmp
