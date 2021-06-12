@@ -8,3 +8,4 @@ bin/
 
 #Ignore all files with extension
 *.tmp
+*.txt
